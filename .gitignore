@@ -1,3 +1,6 @@
+# specs
+notebooks/*
+
 # Logs
 logs
 *.log
